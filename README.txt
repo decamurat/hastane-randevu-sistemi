@@ -49,5 +49,3 @@ Uygulama ilk kez çalıştırıldığında veritabanı altyapısını otomatik o
 
 Projeyi yerel makinenizde çalıştırmak için terminalinizde şu komutu girmeniz yeterlidir:
 
-```bash
-python Hastane_Randevu_Sistemi.py
