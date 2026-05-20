@@ -1,0 +1,58 @@
+[
+    {
+        "ad": "Zeki Eren",
+        "soyad": "Köseoğlu",
+        "sifre": "123",
+        "bolum": "Kardiyoloji",
+        "randevular": []
+    },
+    {
+        "ad": "İlhan Enes",
+        "soyad": "Kılıçarslan",
+        "sifre": "123",
+        "bolum": "Dahiliye",
+        "randevular": []
+    },
+    {
+        "ad": "Enes",
+        "soyad": "Kaya",
+        "sifre": "123",
+        "bolum": "Dahiliye",
+        "randevular": []
+    },
+    {
+        "ad": "Murat Can",
+        "soyad": "Yılmaz",
+        "sifre": "123",
+        "bolum": "KBB",
+        "randevular": []
+    },
+    {
+        "ad": "Erdem",
+        "soyad": "Öztürk",
+        "sifre": "123",
+        "bolum": "Ortopedi",
+        "randevular": []
+    },
+    {
+        "ad": "Bani",
+        "soyad": "Haznevi",
+        "sifre": "123",
+        "bolum": "Ortopedi",
+        "randevular": []
+    },
+    {
+        "ad": "Ali Said",
+        "soyad": "Şaşmaz",
+        "sifre": "123",
+        "bolum": "Kardiyoloji",
+        "randevular": []
+    },
+    {
+        "ad": "Zeki",
+        "soyad": "Erman",
+        "sifre": "123",
+        "bolum": "KBB",
+        "randevular": []
+    }
+]
